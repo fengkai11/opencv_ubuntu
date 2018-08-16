@@ -6,3 +6,9 @@ source file: https://docs.opencv.org/3.4.2/d7/d9f/tutorial_linux_install.html
   usage: cmake-gui
   tip: change the install path
 3>> make & make install
+
+
+
+TIPS： 
+  make install
+  sudo ldconfig
