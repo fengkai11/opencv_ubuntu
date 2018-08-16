@@ -1,0 +1,8 @@
+Instal Opencv3
+source file: https://docs.opencv.org/3.4.2/d7/d9f/tutorial_linux_install.html
+1>> install the dependency
+2>> install cmake gui:
+  sudo apt-get install cmake-qt
+  usage: cmake-gui
+  tip: change the install path
+3>> make & make install
